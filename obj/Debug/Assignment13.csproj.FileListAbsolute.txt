@@ -1,0 +1,7 @@
+C:\simplilearn\Day-8\Assignment13\Assignment13\bin\Debug\Assignment13.exe.config
+C:\simplilearn\Day-8\Assignment13\Assignment13\bin\Debug\Assignment13.exe
+C:\simplilearn\Day-8\Assignment13\Assignment13\bin\Debug\Assignment13.pdb
+C:\simplilearn\Day-8\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.AssemblyReference.cache
+C:\simplilearn\Day-8\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day-8\Assignment13\Assignment13\obj\Debug\Assignment13.exe
+C:\simplilearn\Day-8\Assignment13\Assignment13\obj\Debug\Assignment13.pdb
